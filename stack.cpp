@@ -22,6 +22,6 @@ int main()
             cout << t.top();
             t.pop();
         }
-        cout << endl;
+        cout <<"viet dc nay" << endl;
     }
 }
